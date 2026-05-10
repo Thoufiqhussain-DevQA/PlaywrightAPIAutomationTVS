@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "types": ["node", "@playwright/test"],
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext"
+  },
+  "include": [
+    "tests",
+    "**/*.ts"
+  ]
+}
